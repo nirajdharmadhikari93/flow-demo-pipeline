@@ -2,6 +2,7 @@
   "name": "flow-demo-pipeline",
   "description": "",
   "scripts": {
+    "key1" : "val1"
   },
   "env": {
   },
