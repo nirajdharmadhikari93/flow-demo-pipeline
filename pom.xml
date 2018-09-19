@@ -2,4 +2,5 @@
   <groupId>1234</groupId>
   <artifactId>1234</artifactId>
   <version>2</version>
+  <modelVersion>23</modelVersion>
 </project>
